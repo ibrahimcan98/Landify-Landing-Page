@@ -1,0 +1,57 @@
+@media (max-width: 576px) {
+    #head .none {
+        display: none;
+    }
+    #head {
+        width: 375px;
+    }
+    #head .navbar {
+        width: 100%;
+    }
+    #head .content .content-left {
+        width: 95%;
+        text-align: center;
+        align-items: center;
+    }
+    #logo {
+        text-align: center;
+    }
+    #logo .logo1 {
+        width: 50%;
+    }
+    .features_content .heading {
+        width: 100%;
+        margin: auto;
+    }
+    .features_content .content .content1 {
+        width: 100%;
+        padding: 2rem;
+    }
+    #testi .testi_container {
+        padding-bottom: 30px;
+    }
+    #testi .heading {
+        width: 95%;
+        margin: auto;
+    }
+    #bottom {
+        margin-top: 215px;
+        display: flex;
+    }
+    #bottom .bottom_container {
+        display: flex;
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+    }
+    #bottom .bottom_content {
+        width: 90%;
+        margin: auto;
+        display: flex;
+        padding-bottom: 30px;
+    }
+    #bottom .bottom_container .app {
+        align-items: baseline;
+        margin-left: 20px;
+    }
+}
