@@ -1,5 +1,5 @@
 # Landify-Landing-Page
-Web Tasarım ve Responsive Tasarım
+## Web Tasarım ve Responsive Tasarım
 
 
 
