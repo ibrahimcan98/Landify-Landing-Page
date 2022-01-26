@@ -3,4 +3,4 @@
 
 
 
-Bu tasarımda HTML ve CSS kullanarak figma.com sitesindeki tasarımı responsive şekilde oluşturmak.
+İş başvurusu için bana figma.com üzerinden verilen responsive bu tasarımı , HTML ve CSS kullanarak hazırlamak ve responsive oluşturmak.
